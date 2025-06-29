@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "f2148ac3-b4ec-444a-a105-d925562d6072",
+		"name": "APi python",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34609941"
+	},
+	"item": [
+		{
+			"name": "get_tasks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "add_task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete_task",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
